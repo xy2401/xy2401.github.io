@@ -98,10 +98,15 @@ visit [page](https://xy2401.github.io/local-doc-hibernate-validator-6.0-zh/)
 
  
 - [xy2401/local-doc-hibernate-3.5](https://github.com/xy2401/local-doc-hibernate-3.5)
+visit [page](https://xy2401.github.io/local-doc-hibernate-3.5/)
     - a mirror of [HIBERNATE - Relational Persistence for Idiomatic Java](https://docs.jboss.org/hibernate/orm/3.5/reference/zh-CN/html_single/)
+
 - [xy2401/local-doc-hibernate-validator-4.2](https://github.com/xy2401/local-doc-hibernate-validator-4.2)
+visit [page](https://xy2401.github.io/local-doc-hibernate-validator-4.2/)
     - a mirror of [Hibernate Validator](https://docs.jboss.org/hibernate/validator/4.2/reference/zh-CN/html_single/)
+
 - [xy2401/local-doc-seam-2.0.0.GA](https://github.com/xy2401/local-doc-seam-2.0.0.GA)
+visit [page](https://xy2401.github.io/local-doc-seam-2.0.0.GA/)
     - a mirror of [Seam - 语境相关的组件 [满江红20080327]](https://docs.jboss.org/seam/2.0.0.GA/reference/zh/html_single/)
 
 
